@@ -23,4 +23,4 @@ I completed a Data Science Minor at the American University of Afghanistan!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saalssall&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saalssall&theme=dark)
