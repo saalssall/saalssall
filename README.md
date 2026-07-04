@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hamidullah Rezae
+## Hi there 👋 I'm Hamid Rezae
 
 🎓 Computer Science student at **Queensland University of Technology (QUT)**  
 🌱 Currently learning Machine Learning, Data Science, and Algorithms  
