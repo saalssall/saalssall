@@ -8,7 +8,7 @@
 
 ### 🔭 Current Projects
 - **Data Science Projects** - data exploration, data visualization, data cleaning, data import, statistical analysis, and data mining
-- **Machine Learning Projects** — KNN, Logistic Regression, Ridge/Lasso, Cross-validation
+- **Machine Learning projects** - supervised learning, unsupervised learning, tree-based learning
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, R, C#, Java, JavaScript
