@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at **Queensland University of Technology (QUT)**  
 🌱 Currently learning Machine Learning, Data Science, and Algorithms  
-💻 Working with Python, R, C#, Java, and JavaScript/React  
+💻 Working with Python, R, C#, C, Java, and JavaScript/React  
 
 ---
 
