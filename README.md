@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Hamid Rezae
 
 🎓 Computer Science student at **Queensland University of Technology (QUT)**  
-🌱 Currently learning Machine Learning, Data Science, Algorithms, AI, and Networking
+🌱 Learning Machine Learning, Data Science, Algorithms, AI, and Networking
 💻 Working with Python, R, C#, C, Java, and JavaScript/React  
 
 ---
