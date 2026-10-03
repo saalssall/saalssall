@@ -10,7 +10,7 @@
 
 ### 🔭 Current Projects
 - **Data Science Projects** - data exploration, data visualization, data cleaning, data import, statistical analysis, and data mining
-- **Machine Learning projects** - supervised learning, unsupervised learning, tree-based learning
+- **Machine Learning projects** - supervised learning, unsupervised learning, tree-based learning, text mining, and web log mining
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, R, C#, Java, JavaScript
