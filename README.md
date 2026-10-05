@@ -4,7 +4,7 @@
 
 🌱 Learning Machine Learning, Data Science, Algorithms, AI, Networking, and cyber security
 
-💻 Working with Python, R, C#, C, Java, and JavaScript/React
+💻 Working with Python, R, C#, C, Java, Shell, and JavaScript/React
 
 ---
 
