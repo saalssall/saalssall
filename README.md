@@ -2,9 +2,9 @@
 
 🎓 Computer Science/AI student at **Queensland University of Technology (QUT)**
 
-🌱 Learning Machine Learning, Data Science, Algorithms, AI, Networking, and cyber security
+🌱 Learning Machine Learning, Data Science, Algorithms, AI, Networking, and Cyber Security
 
-💻 Working with Python, R, C#, C, Java, Shell, and JavaScript/React
+💻 Working with Python, R, SQL, C#, C, Shell, and JavaScript/React
 
 ---
 
