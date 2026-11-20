@@ -2,7 +2,7 @@
 
 🎓 Computer Science/AI student at **Queensland University of Technology (QUT)**
 
-🌱 Learning Machine Learning, Data Science, Algorithms, AI, Networking, and Cyber Security
+🌱 Learning Operating Systems, Machine Learning, Data Science, Algorithms, AI, Networking, and Cyber Security
 
 💻 Working with Python, R, SQL, C#, C, Shell, and JavaScript/React
 
@@ -13,8 +13,8 @@
 - **Machine Learning projects** - supervised learning, unsupervised learning, tree-based learning, text mining, and web log mining
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, R, C#, Java, JavaScript
-- **Tools:** VS Code, Jupyter Notebook, RStudio, IntelliJ IDEA
+- **Languages:** Python, R, C#, Shell, JavaScript, C
+- **Tools:** VS Code, Jupyter Notebook, RStudio, IntelliJ IDEA, JetBrains Rider
 - **Libraries:** scikit-learn, pandas, ggplot2, React, Tailwind CSS
 
 ### 📫 How to reach me
